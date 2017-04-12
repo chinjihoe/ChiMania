@@ -41,3 +41,12 @@ Good: 100
 Bad: 50
 Miss 0
 Formula: Score += Hitrating * combo
+
+Grade:
+The grade is calculated using the current hitPercentage
+S+: 100%
+S: >95%
+A: 90%-95%
+B: 80%-90%
+C: 70%-80%
+D: <70%
