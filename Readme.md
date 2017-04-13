@@ -65,6 +65,7 @@ Formula: Score += Hitrating * combo
 
 #### Grade:
 The grade is calculated using the current hitPercentage
+
 S+: 100%
 
 S: >95%
