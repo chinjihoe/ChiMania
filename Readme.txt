@@ -50,3 +50,5 @@ A: 90%-95%
 B: 80%-90%
 C: 70%-80%
 D: <70%
+
+![hitrating_visualisation](https://cloud.githubusercontent.com/assets/10066666/25002800/8fe1258c-204c-11e7-8361-14ae4be85e91.png)
