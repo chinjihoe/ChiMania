@@ -1,3 +1,5 @@
+### How to play
+
 #### Start game: 
 python game.py
 
@@ -7,7 +9,7 @@ Choose a song by index of the song and press enter
 #### Difficulty select:
 After choosing a song, choose a difficulty by index and press enter
 
-#### NOTE: CLICK ON THE GAME WINDOW TO GET FOCUS ON IT!!
+#### NOTE: THERE IS NO AUTOFOCUS ON GAME WINDOW, CLICK ON THE GAME WINDOW TO GET FOCUS ON IT!
 
 #### Gameplay:
 Hit the falling blocks when they are positioned at the HitLine (red bar)
@@ -24,6 +26,7 @@ Right(Green): L
 =======================
 
 ### Game mechanics
+
 #### HitRating:
 Excellent: Hitting the blocks perfectly on the HitLine results in an "Excellent" hit
 
