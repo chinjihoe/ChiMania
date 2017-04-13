@@ -23,7 +23,6 @@ Right middle(Blue): K
 
 Right(Green): L
 
-=======================
 
 ### Game mechanics
 
