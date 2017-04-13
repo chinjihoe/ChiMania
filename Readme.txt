@@ -11,7 +11,7 @@ NOTE: CLICK ON THE GAME WINDOW TO GET FOCUS ON IT!!
 Gameplay:
 Hit the falling blocks when they are positioned at the HitLine (red bar)
 
-Input: 
+Keyboard input: 
 Left(Green): S
 Left middle(Blue): D
 Right middle(Blue): K
